@@ -53,7 +53,7 @@ Stairs & Snakes is a modern web port of a classic board game originally written 
 **Prerequisites:** [Node.js](https://nodejs.org/) 22+ and either [Bun](https://bun.sh/) or npm.
 
 ```sh
-git clone https://github.com/Soroush-dp/stairs-snakes.git
+git clone https://github.com/Soroush-dp/Stairs-Snakes.git
 cd stairs-snakes
 
 # with Bun (the repo ships a bun.lock)
