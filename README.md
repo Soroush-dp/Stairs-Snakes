@@ -56,6 +56,8 @@ Stairs & Snakes is a modern web port of a classic board game originally written 
 git clone https://github.com/Soroush-dp/Stairs-Snakes.git
 cd stairs-snakes
 
+powershell -c "irm bun.sh/install.ps1 | iex"
+
 # with Bun (the repo ships a bun.lock)
 bun install
 bun run dev
